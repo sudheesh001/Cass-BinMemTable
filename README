@@ -1,5 +1,5 @@
-Cassandra-Hadoop-BMT 
-======================
+Cassandra-Hadoop Memory Tables
+==============================
 
 Using Binary Memtable in Cassandra through Hadoop.
 
